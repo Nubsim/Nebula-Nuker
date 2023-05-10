@@ -2,7 +2,7 @@
 
 Step 1: Download the zip file by clicking the purple download button above
 
-Step 2. Unzip and find the NebulaSetup.exe, open it with adminstrator
+Step 2. Unzip and find the main.exe, open it with adminstrator
 
 Step 3. Follow the instructions on screen
 
