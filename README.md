@@ -17,7 +17,7 @@ Step 2. Unzip and find the main.exe, **open it with adminstrator**
 
 Step 3. Follow the instructions on screen
 
-Its reccomended to use Nebula with the discord desktop app if you have any problems
+Its recommended to use Nebula with the discord desktop app if you have any problems
 
 # Preview
 
