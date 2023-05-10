@@ -9,7 +9,7 @@
 
 # Instructions 
 
-🔴 You may need to disabled your anti virus software 
+🔴 You may need to disable your anti virus software 
 
 Step 1: Download 
 
