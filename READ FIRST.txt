@@ -1,0 +1,9 @@
+🔴 You may need to disable your anti virus software
+
+Step 1: Download the zip file by clicking the purple download button above
+
+Step 2. Unzip and find the NebulaSetup.exe, open it with adminstrator
+
+Step 3. Follow the instructions on screen
+
+It's recommended to use Nebula with the discord desktop app if you have any problems.
