@@ -13,7 +13,7 @@
 
 Step 1: Download 
 
-Step 2. Unzip and find the main.exe, **open it with adminstrator**
+Step 2. Unzip and find the Nebula.exe, **open it with adminstrator**
 
 Step 3. Follow the instructions on screen
 
